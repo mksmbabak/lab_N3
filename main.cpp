@@ -1,4 +1,5 @@
 #include <iostream>
+#include <stdio>
 #include "rational.hpp"
 
 
